@@ -1,1 +1,1 @@
-1.1.0<@>https://toshikiando136.github.io/BlockArtMaker_Site/privacypolicy
+1.1.0|https://toshikiando136.github.io/BlockArtMaker_Site/privacypolicy
